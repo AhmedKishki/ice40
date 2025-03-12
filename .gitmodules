@@ -4,12 +4,3 @@
 [submodule "learn-fpga"]
 	path = learn-fpga
 	url = https://github.com/BrunoLevy/learn-fpga.git
-<<<<<<< HEAD
-[submodule "icestorm"]
-	path = icestorm
-	url = https://github.com/YosysHQ/icestorm.git
-[submodule "nextpnr"]
-	path = nextpnr
-	url = https://github.com/YosysHQ/nextpnr.git
-=======
->>>>>>> fe9942bc1965de64aad6d9c4140fcd0d6eeef573
